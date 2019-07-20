@@ -1,1 +1,2 @@
 Some initial text
+1 add some text while on master
